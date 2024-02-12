@@ -1,6 +1,6 @@
 #!/bin/bash
 # Declaration of variables
 name=Tom
-age=17
+age=19
 # Displaying variables
 echo $name $age
